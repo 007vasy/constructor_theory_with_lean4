@@ -1,10 +1,6 @@
-name = "my_first_lean4_project"
+name = "constructor_theory"
 version = "0.1.0"
-defaultTargets = ["my_first_lean4_project"]
+defaultTargets = ["ConstructorTheory"]
 
 [[lean_lib]]
-name = "MyFirstLean4Project"
-
-[[lean_exe]]
-name = "my_first_lean4_project"
-root = "Main"
+name = "ConstructorTheory"
