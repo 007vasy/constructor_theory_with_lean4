@@ -14,21 +14,26 @@ import ConstructorTheory.Possible
 import ConstructorTheory.Principles.Basic
 import ConstructorTheory.Principles.Locality
 import ConstructorTheory.Principles.CompositionPrinciple
+import ConstructorTheory.Principles.Interoperability
 
 -- Information theory
 import ConstructorTheory.Information.Basic
 import ConstructorTheory.Information.InformationMedium
 import ConstructorTheory.Information.Interoperability
 import ConstructorTheory.Information.Observable
+import ConstructorTheory.Information.NoCloning
 
 -- Thermodynamics
 import ConstructorTheory.Thermodynamics.Basic
 import ConstructorTheory.Thermodynamics.HeatMedia
 import ConstructorTheory.Thermodynamics.Laws
 import ConstructorTheory.Thermodynamics.Entropy
+import ConstructorTheory.Thermodynamics.Carnot
 
 -- Constructor theory of time
 import ConstructorTheory.Time.Basic
+import ConstructorTheory.Time.Duration
 
 -- Constructor theory of life
 import ConstructorTheory.Life.Basic
+import ConstructorTheory.Life.Evolution
