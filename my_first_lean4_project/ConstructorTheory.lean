@@ -5,6 +5,8 @@
 -- See: https://arxiv.org/abs/2505.08692 (time)
 -- See: https://arxiv.org/abs/1407.0681 (life)
 -- See: https://arxiv.org/abs/2401.05364 (process theory)
+-- See: https://arxiv.org/abs/1507.03287 (probability)
+-- See: https://arxiv.org/abs/2404.07786 (work extraction from coherence)
 
 -- Core definitions
 import ConstructorTheory.Basic
@@ -18,6 +20,8 @@ import ConstructorTheory.Principles.CompositionPrinciple
 import ConstructorTheory.Principles.Interoperability
 import ConstructorTheory.Principles.CategoryStructure
 import ConstructorTheory.Principles.ProcessTheory
+import ConstructorTheory.Principles.Probability
+import ConstructorTheory.Principles.Unification
 
 -- Information theory
 import ConstructorTheory.Information.Basic
@@ -33,6 +37,7 @@ import ConstructorTheory.Thermodynamics.Laws
 import ConstructorTheory.Thermodynamics.Entropy
 import ConstructorTheory.Thermodynamics.Carnot
 import ConstructorTheory.Thermodynamics.InfoThermo
+import ConstructorTheory.Thermodynamics.WorkCoherence
 
 -- Constructor theory of time
 import ConstructorTheory.Time.Basic
